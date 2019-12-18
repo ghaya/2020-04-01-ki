@@ -38,6 +38,9 @@ collaborative_notes: "https://pad.carpentries.org/2020-04-01-working-with-data"
 </p>
 {% endif %}
 
+<h2>Registration</h2>
+<p>Registration is open to people affiliated with KI, KTH or SU. Registration is not active yet, we will add a link here when it is available.
+
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages detailed in each section of the schedule listed below.
