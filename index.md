@@ -130,7 +130,7 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 <h3>SQL</h3>
  <ul>
     <li>This lesson requires the Unix shell, plus <a href="http://www.sqlite.org/">SQLite3</a> or <a href="http://sqlitebrowser.org/">DB Browser for SQLite</a>.</li>
-    <li>Please download the database we will use: <a href="./files/survey.db">survey.db</a></li>
+    <li>We will be working with a predefined database. More information will be posted here shortly.</li>
  </ul>
 <h3>Open Refine</h3>
  <p>This lesson requires a working copy of OpenRefine (also called 
