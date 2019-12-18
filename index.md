@@ -44,24 +44,8 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 
 <h2 id="general">General Information</h2>
 
-{% comment %}
-INTRODUCTION
 
-{% comment %}
-AUDIENCE
 
-Explain who your audience is.  (In particular, tell readers if the
-workshop is only open to people from a particular institution.
-{% endcomment %}
-{% if site.carpentry == "swc" %}
-{% include swc/who.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/who.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/who.html %}
-{% endif %}
-
-{% comment %}
 LOCATION
 
 This block displays the address and links to maps showing directions
