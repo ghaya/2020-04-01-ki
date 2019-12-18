@@ -63,9 +63,7 @@ collaborative_notes: "https://pad.carpentries.org/2020-04-01-working-with-data"
   attempt to provide them.
 </p>
 <p id="Registration">
-<h2>Registration</h2>
-<p>Registration is open to people affiliated with KI, KTH or SU. Registration is not active yet, we will add a link here when it is available.
-  </p>
+
 <p id="contact">
   <strong>Contact</strong>:
   Please email
@@ -98,18 +96,11 @@ Everyone who participates in Carpentries activities is required to conform to th
 <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
 </p>
 <hr/>
+<h2>Registration</h2>
+<p>Registration is open to people affiliated with KI, KTH or SU. Registration is not active yet, we will add a link here when it is available.
+  </p>
+  <hr/>
 
-
-{% comment %}
-Collaborative Notes
-
-If you want to use an Etherpad, go to
-
-http://pad.carpentries.org/YYYY-MM-DD-site
-
-where 'YYYY-MM-DD-site' is the identifier for your workshop,
-e.g., '2015-06-10-esu'.
-{% endcomment %}
 {% if page.collaborative_notes %}
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
@@ -120,24 +111,8 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 {% endif %}
 
 
-{% comment %} 
-SURVEYS - DO NOT EDIT SURVEY LINKS 
-{% endcomment %}
-<h2 id="surveys">Surveys</h2>
-<p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-
 <hr/>
 
-
-{% comment %}
-SCHEDULE
-
-Show the workshop's schedule.  Edit the items and times in the table
-to match your plans.  You may also want to change 'Day 1' and 'Day
-2' to be actual dates or days of the week.
-{% endcomment %}
 <h2 id="schedule">Schedule</h2>
 
 {% if site.carpentry == "swc" %}
