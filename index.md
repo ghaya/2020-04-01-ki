@@ -157,7 +157,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 GoogleRefine).</p>
 
 <h3>Python</h3>
-  More information coming soon.
+ <p> More information coming soon.
 </p>  
   
 
