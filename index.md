@@ -38,8 +38,7 @@ collaborative_notes: "https://pad.carpentries.org/2020-04-01-working-with-data"
 </p>
 {% endif %}
 
-<h2>Registration</h2>
-<p>Registration is open to people affiliated with KI, KTH or SU. Registration is not active yet, we will add a link here when it is available.
+
 
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
@@ -63,7 +62,10 @@ collaborative_notes: "https://pad.carpentries.org/2020-04-01-working-with-data"
   get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
-
+<p id="Registration">
+<h2>Registration</h2>
+<p>Registration is open to people affiliated with KI, KTH or SU. Registration is not active yet, we will add a link here when it is available.
+  </p>
 <p id="contact">
   <strong>Contact</strong>:
   Please email
