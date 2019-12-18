@@ -147,8 +147,17 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 
 <h2 id="setup">Setup</h2>
 
-<p>
-  Please go in to each of the section in the schedule above and read the section marked "prerequisites" and download the necessary software for each one.
+<h3>SQL</h3>
+ <ul>
+    <li>This lesson requires the Unix shell, plus <a href="http://www.sqlite.org/">SQLite3</a> or <a href="http://sqlitebrowser.org/">DB Browser for SQLite</a>.</li>
+    <li>Please download the database we will use: <a href="./files/survey.db">survey.db</a></li>
+ </ul>
+<h3>Open Refine</h3>
+ <p>This lesson requires a working copy of OpenRefine (also called 
+GoogleRefine).</p>
+
+<h3>Python</h3>
+  More information coming soon.
 </p>  
   
 
