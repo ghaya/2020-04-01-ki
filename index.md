@@ -4,8 +4,8 @@ venue: "Karolinska Institutet University Library Flemingsberg"        # brief na
 address: "Alfred Nobels allé 8. The university library, room Hypofysen 1"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "Sweden"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latitude: "59.2"     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "17.9"    # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "59.219701"     # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "17.940939"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "April 1-2, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-04-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
