@@ -23,10 +23,8 @@ collaborative_notes: "https://pad.carpentries.org/2020-04-01-working-with-data"
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}.
-  Get directions with
-  <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
-  or
-  <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
+  Get directions with 
+  <a href="https://goo.gl/maps/kdvfEWP5uWqPSk4s8">Google Maps</a>.
 </p>
 {% endif %}
 
