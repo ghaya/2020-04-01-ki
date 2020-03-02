@@ -95,7 +95,7 @@ Everyone who participates in Carpentries activities is required to conform to th
 </p>
 <hr/>
 <h2>Registration</h2>
-<p>Registration is open to people affiliated with KI, KTH or SU. <p> <a href="https://kib.ki.se/en/node/17421/register"><button type="button" class="btn btn-info">Register now</button></a></p>
+<p>This workshop is full and we are not accepting more registrations</p>
   </p>
   <hr/>
 
