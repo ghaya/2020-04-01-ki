@@ -95,7 +95,7 @@ Everyone who participates in Carpentries activities is required to conform to th
 </p>
 <hr/>
 <h2>Registration</h2>
-<p>This workshop is full and we are not accepting more registrations</p>
+<p>This workshop is fully booked.</p>
   </p>
   <hr/>
 
