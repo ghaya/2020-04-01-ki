@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "Karolinska Institutet University Library Flemingsberg"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "The workshop is currently cancelled due to the coronavirus.  We are looking into providing an online version"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "The workshop is currently cancelled due to the coronavirus.  We are looking into the possibility of providing an online version."      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "Sweden"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "59.219701"     # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -18,13 +18,7 @@ collaborative_notes: "https://pad.carpentries.org/2020-04-01-working-with-data"
 ---
 
 <h2 id="general">General Information</h2>
-
-{% if page.latitude and page.longitude %}
-<p id="where">
-  <strong>Where:</strong>
-  {{page.address}}.
-</p>
-{% endif %}
+<h3>NOTE: The workshop is currently cancelled due to the coronavirus.  We are looking into the possibility of providing an online version.</h3>
 
 {% if page.humandate %}
 <p id="when">
