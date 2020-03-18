@@ -23,8 +23,6 @@ collaborative_notes: "https://pad.carpentries.org/2020-04-01-working-with-data"
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}.
-  Get directions with 
-  <a href="https://goo.gl/maps/kdvfEWP5uWqPSk4s8">Google Maps</a>.
 </p>
 {% endif %}
 
