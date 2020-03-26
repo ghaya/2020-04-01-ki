@@ -24,7 +24,6 @@ collaborative_notes: "https://pad.carpentries.org/2020-04-01-working-with-data"
 <p id="when">
   <strong>When:</strong>
   {{page.humandate}}.
-  {% include workshop_calendar.html %}
 </p>
 {% endif %}
 
