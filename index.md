@@ -18,7 +18,7 @@ collaborative_notes: "https://pad.carpentries.org/2020-04-01-working-with-data"
 ---
 
 <h2 id="general">General Information</h2>
-<h3>NOTE: The workshop is currently cancelled due to the coronavirus.  We are looking into the possibility of providing an online version.</h3>
+<h3>NOTE: The workshop is currently cancelled due to the coronavirus.  We are looking into the possibility of providing an online version at a date not decided yet, likely in May.  If you are interested in the distance course and are not already registered or on the mailing list for the original course, contact glenn.haya@ki.se</h3>
 
 {% if page.humandate %}
 <p id="when">
