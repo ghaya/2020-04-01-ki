@@ -6,11 +6,11 @@ country: "Sweden"      # lowercase two-letter ISO country code such as "fr" (see
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "59.219701"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "17.940939"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Date to be decided"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "May 20, Wednesday 13:00 -16:00  -  SQL<br/>
+humandate: "May 20, Wednesday 13:00 -16:00  -  SQL<br/>
             May 25, Monday 13:00 - 16:00 - OpenRefine<br/>
             May 27, Wednesday 13:00-16:00 - Python<br/>
-            May 28, Thurday 9:00 - 12:00 - Python part 2"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+            May 28, Thurday 9:00 - 12:00 - Python part 2"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: ""    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate:      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate:        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Joakim Philipson, Rosa Lönneborg, Thomas Lind,Lina Andrén"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
