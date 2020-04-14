@@ -25,7 +25,7 @@ collaborative_notes: "https://pad.carpentries.org/2020-04-01-working-with-data"
 
 {% if page.humandate %}
 <p id="when">
-  <strong>When:</strong>
+  <strong>When:</strong><br/>
   {{page.humandate}}.
 </p>
 {% endif %}
