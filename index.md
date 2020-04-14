@@ -21,7 +21,7 @@ collaborative_notes: "https://pad.carpentries.org/2020-04-01-working-with-data"
 ---
 
 <h2 id="general">General Information</h2>
-<h3>NOTE: The original workshop was cancelled and we are now planning on offering online workshops on the dates provided below. Contact glenn.haya@ki.se with questions.</h3>
+<h3>We are now planning on offering online workshops on the dates provided below. Contact glenn.haya@ki.se with questions.</h3>
 
 {% if page.humandate %}
 <p id="when">
